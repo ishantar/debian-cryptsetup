@@ -1,3 +1,6 @@
+/* retained here for historical reasons. this fork is quite out of date and should definitely not be used. */
+
+
 ![LUKS logo](https://gitlab.com/cryptsetup/cryptsetup/wikis/luks-logo.png)
 
 What the ...?
